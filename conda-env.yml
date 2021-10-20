@@ -1,0 +1,12 @@
+name: ob2
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - Faker
